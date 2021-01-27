@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "mosh-assignment1"
+  "defaultProject": "mosh-assignment1",
+  "cli": {
+    "analytics": false
+  }
 }
